@@ -1,2 +1,1 @@
-cpp-playground
-==============
+Assorted collection of C++ snippets.
